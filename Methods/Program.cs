@@ -26,7 +26,7 @@ namespace Methods
 
             magaza malzeme3 = new magaza();
             malzeme3.urunadi = "nutella";
-            malzeme3.urunfiyati = 75.99;
+            malzeme3.urunfiyati = 45.99;
             malzeme3.urunmiktari = 12;
             malzeme3.urunsepettemi = true;
 
